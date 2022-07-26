@@ -52,6 +52,7 @@ public class MainActivity extends AppCompatActivity {
                 }
             });
             dlg.setNegativeButton("닫기", null);
+            dlg.show();
         }
     };
 
@@ -68,6 +69,7 @@ public class MainActivity extends AppCompatActivity {
                 }
             });
             dlg.setNegativeButton("닫기", null);
+            dlg.show();
         }
     };
 
